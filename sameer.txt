@@ -19,3 +19,4 @@ this is my git project file
 this is my git project file
 this is my git project file
 this is my git project file
+This is my new line for mergr conflict example
