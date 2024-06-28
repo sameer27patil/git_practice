@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ameer test file
+=======
+ithis is sam file
+>>>>>>> 258456932b62f7659f4df55b8f1e963d44368240
